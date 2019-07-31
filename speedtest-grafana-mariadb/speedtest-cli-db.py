@@ -3,9 +3,9 @@
 # Character for separating values
 # (commas are not safe, because some servers return speeds with commas)
 #speedtestserver=2495
-mariadblogin=admindb
-mariadbpassword=mulle@2003
-mariadbdb=speedtest
+mariadblogin=name
+mariadbpassword=pw
+mariadbdb=db_name
 
 #Temporary file holding speedtest-cli output
 user=$USER
